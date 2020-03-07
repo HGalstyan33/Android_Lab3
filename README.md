@@ -1,11 +1,11 @@
 # Lab 3
 
 ### App Description
-Description
+Along with the features from the previous labs, this app allows you to create multiple flashcards and scroll through them by pressing either of the two arrows on the right and left of the screen. You can also delete flashcards that you don't want or edit the question or answers on a card.
 
 ### App Walk-though
 
-<img src="LINK" width=200><br>
+<img src="https://imgur.com/9byMlVE.gif" width=200><br>
 
 ## Required
 - [X] User can create a card and still see their created card when the app is relaunched.
